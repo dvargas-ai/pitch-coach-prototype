@@ -1,2 +1,2 @@
-# innovadoresenaccion
-Prototipo de alta resolución
+# Innovators in Action
+High-fidelity prototype
