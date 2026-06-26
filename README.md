@@ -53,7 +53,7 @@ A **high-fidelity mobile prototype** with screens for: a welcome/intro, collabor
 
 ## 🛠️ Built With
 
-`Design Thinking` · `UI Prototyping` · `Mobile UX`
+`HTML` · `CSS` · `Design Thinking` · `UI Prototyping` · `Mobile UX`
 
 <details>
 <summary>🇪🇸 Leer en español</summary>
